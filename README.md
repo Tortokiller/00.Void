@@ -122,9 +122,6 @@ That's it. No install, no build, no server required.
 Available for personal and commercial use.
 
 ---
-
 <div align="center">
 
-⚡ **Built by [GetWeb.tech](https://getweb.tech)** · Professional web design for small businesses · Barcelona · 2026
-
-</div>
+⚡ **Built by [GetWeb.tech](https://getweb.tech)** · Professional web design for small businesses · [Tortokiller](https://github.com/Tortokiller) · Barcelona · 2026
